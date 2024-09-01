@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Satria Julhendra
+
+i'm Informatics Engineering Student at Riau University and Full Stack Web Developer
+
+i'm third year Informatics Engineering student, is known as a responsible individual and able to manage time efficiently. His strong experience in website development involves HTML, CSS, JavaScript, React JS, Bootstrap, and Firebase. Satria, who has a high enthusiasm for learning, is always ready to collaborate in creating innovative solutions for website development. The combination of technical skills and time management abilities makes him ready to contribute effectively
+
 <!--
 **SatriaJulhendra/SatriaJulhendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
